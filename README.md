@@ -5,7 +5,7 @@ Name: Jesper Kielsgaard<br>
 School: Tech College Aalborg<br>
 Grade: 10/B
 
-## eexam description
+## Exam description
 The Data technician graduation project is a 6 weeks exam and contain
 1. Case preparation and problem definition
 2. Two raports. a process report and a product report total about 30-40 pages 
