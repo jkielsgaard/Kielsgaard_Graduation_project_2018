@@ -6,11 +6,11 @@ School: Tech College Aalborg<br>
 Grade: 10/B
 
 ## eexam description
-5 weeks eexam project for Data technician Education 2018.<br>
-During these five weeks exam must contain
-1. Two raports. a process report and a product report total about 30-40 pages 
-2. Product designing, planning and development of the product
-3. Presentation of another technological theory (NoSQL)
+The Data technician graduation project is a 6 weeks exam and contain
+1. Case preparation and problem definition
+2. Two raports. a process report and a product report total about 30-40 pages 
+3. Product designing, planning and development of the product
+4. Presentation of the produkt and another technological theory (NoSQL)
 
 ## Project description
 The project cases are based on my own everyday life, where I found a need to measure and collect climate data.
@@ -28,7 +28,7 @@ The final product is a Smart Home solution, which employs a number of different 
 - DynamoDB (https://aws.amazon.com/dynamodb/)
 
 >ClimateViewer (Desktop client software) 
-- C# / WPF desktop application
+- C# / WPF desktop application (Framework that are used is Newtonsoft.Json and LiveChart)
 
 ## Product description
 Brief explanation regarding the Product from the product chart
