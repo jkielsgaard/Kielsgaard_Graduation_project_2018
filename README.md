@@ -25,7 +25,7 @@ The final product is a Smart Home solution, which employs a number of different 
 >Backend System (AWS services)
 - [API Gateway](https://aws.amazon.com/api-gateway/)
 - [Lambda function](https://aws.amazon.com/lambda/) written in Node.js [source code](https://github.com/jkielsgaard/Kielsgaard_Graduation_project_2018/tree/master/AWS_Lambda_Function)
-- [DynamoDB(https://aws.amazon.com/dynamodb/)
+- [DynamoDB](https://aws.amazon.com/dynamodb/)
 
 >ClimateViewer (Desktop client software) 
 - desktop application written in C# / WPF  [source code](https://github.com/jkielsgaard/Kielsgaard_Graduation_project_2018/tree/master/ClimateViewer)
