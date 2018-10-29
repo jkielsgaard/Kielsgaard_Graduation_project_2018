@@ -10,7 +10,7 @@ The Data technician graduation project is a 6 weeks exam and contain
 1. Case preparation and problem definition
 2. Two raports. a process report and a product report total about 30-40 pages 
 3. Product designing, planning and development of the product
-4. Presentation of the produkt and another technological theory (NoSQL)
+4. Presentation of the produkt and another technical theory (NoSQL)
 
 ## Project description
 The project cases are based on my own everyday life, where I found a need to measure and collect climate data.
@@ -20,15 +20,15 @@ The final product is a Smart Home solution, which employs a number of different 
 ## Product Technologies
 >IOT units
 - NodeMCU ESP8266 Wi-Fi developer boards with a DHT22 digital temperature and humidity sensor.
-- Firmware C/C++
+- Firmware written in C/C++
 
 >Backend System (AWS services)
 - API Gateway (https://aws.amazon.com/api-gateway/)
-- Lambda function written Node.js (https://aws.amazon.com/lambda/)
+- Lambda function written in Node.js (https://aws.amazon.com/lambda/)
 - DynamoDB (https://aws.amazon.com/dynamodb/)
 
 >ClimateViewer (Desktop client software) 
-- C# / WPF desktop application (Framework that are used is Newtonsoft.Json and LiveChart)
+- desktop application written in C# / WPF
 
 ## Product description
 Brief explanation regarding the Product from the product chart
