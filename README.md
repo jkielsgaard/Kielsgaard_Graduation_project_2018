@@ -20,15 +20,15 @@ The final product is a Smart Home solution, which employs a number of different 
 ## Product Technologies
 >IOT units
 - NodeMCU ESP8266 Wi-Fi developer boards with a DHT22 digital temperature and humidity sensor.
-- Firmware written in C/C++
+- Firmware written in C/C++ (source code: https://github.com/jkielsgaard/Kielsgaard_Graduation_project_2018/tree/master/IOT_Firmware)
 
 >Backend System (AWS services)
 - API Gateway (https://aws.amazon.com/api-gateway/)
-- Lambda function written in Node.js (https://aws.amazon.com/lambda/)
+- Lambda function written in Node.js (https://aws.amazon.com/lambda/) (source code: https://github.com/jkielsgaard/Kielsgaard_Graduation_project_2018/tree/master/AWS_Lambda_Function)
 - DynamoDB (https://aws.amazon.com/dynamodb/)
 
 >ClimateViewer (Desktop client software) 
-- desktop application written in C# / WPF
+- desktop application written in C# / WPF (source code: https://github.com/jkielsgaard/Kielsgaard_Graduation_project_2018/tree/master/ClimateViewer)
 
 ## Product description
 Brief explanation regarding the Product from the product chart
